@@ -1,0 +1,4 @@
+usr/bin/qqem6
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/qml/QtQuickEffectMaker/defaultnodes/
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/sbom/qqeffectmaker-6.*.spdx
+usr/lib/qt6/bin/qqem

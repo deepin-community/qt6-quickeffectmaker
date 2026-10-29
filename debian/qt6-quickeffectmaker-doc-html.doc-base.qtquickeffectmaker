@@ -1,0 +1,9 @@
+Document: qt6-quickeffectmaker-manual
+Title: Qt 6 Quick Effect Maker
+Author: The Qt Company Ltd
+Abstract: This is the HTML documentation for Qt 6 Quick Effect Maker
+Section: Programming/C++
+
+Format: HTML
+Index: /usr/share/doc/qt6-quickeffectmaker-doc-html/html/qtquickeffectmaker/qtquickeffectmaker-index.html
+Files: /usr/share/doc/qt6-quickeffectmaker-doc-html/html/qtquickeffectmaker/*.html
